@@ -1,0 +1,5 @@
+[user]
+	name = ludvigk
+	email = ludde.killingberg@gmail.com
+[alias]
+	dtf = !git --git-dir=$HOME/.dotfiles --work-tree=$HOME
